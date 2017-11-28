@@ -1,2 +1,7 @@
-# s2i-haproxy
-Source to image enabled haproxy image
+# s2i-haproxy-centos7 Container
+
+## Building
+
+```shell
+make build
+```
